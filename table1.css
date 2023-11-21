@@ -1,0 +1,41 @@
+table, td, th{
+
+    border-bottom: 2px solid;
+    border-collapse: collapse;
+    border-color: blue;
+
+ }   
+
+ .container{
+
+    width: 80%;
+    margin: auto;
+    padding-top: 40px;
+ }
+
+table{
+
+    width: 80%;
+    font-size: 15px;
+}
+
+td, th{
+
+    padding: 10px;
+}
+
+th{
+
+    background-color: dodgerblue;
+    color: white;
+}
+
+tr:nth-child(even){
+
+    background-color: lightgray;
+}
+
+tr:hover{
+
+    background-color: darkgray;
+}
