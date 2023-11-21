@@ -1,0 +1,48 @@
+table, td, th{
+
+    border-top: 1px solid;
+    border-collapse: collapse;
+    border-color: #ddd;
+
+
+}
+
+table{
+
+    width: 80%;
+    margin: auto;
+
+}
+
+th{
+
+    background-color: dodgerblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+td,th{
+
+    padding: 20px;
+}
+
+.contaniner{
+width: 90%;
+margin: auto;
+padding-top: 20px;
+
+
+}
+
+caption{
+
+    background-color: orange;
+    margin: auto;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 30%;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+}
